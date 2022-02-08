@@ -26,7 +26,18 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase":{
+          "apiKey": "AIzaSyAKBAble6lBdYxwXTsUFrRXDcVbfpLmUR4",
+          "authDomain": "tiktok-fee32.firebaseapp.com",
+          "projectId": "tiktok-fee32",
+          "storageBucket": "tiktok-fee32.appspot.com",
+          "messagingSenderId": "885143777888",
+          "appId": "1:885143777888:web:79a1d75e556d1878df4905",
+          "measurementId": "G-6GXYD5DW3X"
+        }
+      }
     }
   }
 }
